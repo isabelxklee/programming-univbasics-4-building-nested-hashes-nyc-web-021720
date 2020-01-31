@@ -24,7 +24,7 @@ def monopoly_with_third_tier
   
   {railroads:
     {
-      rent_in_dollars: {key_one: "", key_two: "", key_three: "", key_four: "", one_piece_owned: 25},
+      rent_in_dollars: {key_one: "", key_two: "", key_three: "", key_four: "", one_piece_owned: "25"},
       names: {key_one: "", key_two: "", key_three: "", key_four: ""},
     }
   }
