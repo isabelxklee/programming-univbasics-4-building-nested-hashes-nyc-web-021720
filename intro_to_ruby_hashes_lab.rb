@@ -3,7 +3,7 @@ def base_hash
   # keyword "return." Nice and neat.
   
 	{}
-	base_hash(key, value)
+	base_hash
 end
 
 def monopoly_with_second_tier
